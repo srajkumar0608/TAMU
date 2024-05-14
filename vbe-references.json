@@ -1,0 +1,48 @@
+﻿{
+  "Info": {
+    "Class": "clsDbVbeReference",
+    "Description": "VBE References"
+  },
+  "Items": {
+    "stdole": {
+      "GUID": "{00020430-0000-0000-C000-000000000046}",
+      "Version": "2.0"
+    },
+    "Acrobat": {
+      "GUID": "{E64169B3-3592-47D2-816E-602C5C13F328}",
+      "Version": "1.1"
+    },
+    "Office": {
+      "GUID": "{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}",
+      "Version": "2.8"
+    },
+    "DAO": {
+      "GUID": "{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}",
+      "Version": "12.0"
+    },
+    "AcroPDFLib": {
+      "GUID": "{05BFD3F1-6319-4F30-B752-C7A22889BCC4}",
+      "Version": "1.0"
+    },
+    "FileViewLib": {
+      "GUID": "{A4214ABB-6C96-4566-ACCB-9A6767AFB285}",
+      "Version": "2.0"
+    },
+    "Outlook": {
+      "GUID": "{00062FFF-0000-0000-C000-000000000046}",
+      "Version": "9.6"
+    },
+    "AcrobatAccessLib": {
+      "GUID": "{C523F390-9C83-11D3-9094-00104BD0D535}",
+      "Version": "3.0"
+    },
+    "AccessibilityCplAdminLib": {
+      "GUID": "{714DD4F6-7676-4BDE-925A-C2FEC2073F36}",
+      "Version": "1.0"
+    },
+    "AFORMAUTLib": {
+      "GUID": "{7CD06992-50AA-11D1-B8F0-00A0C9259304}",
+      "Version": "1.0"
+    }
+  }
+}

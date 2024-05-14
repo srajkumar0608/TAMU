@@ -1,0 +1,224 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+--9-3I Database.accdb
+VCS Version 4.0.34
+Full Path: E:\Projects\TAMU\Telliant Testing\--9-3I Database.accdb
+Export Folder: E:\Projects\TAMU\Telliant Testing\--9-3I Database.accdb.src\
+Performing Full Export
+14/05/2024 3:55:47 PM
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No proj properties found in this database.
+No shared images found in this database.
+No macros found in this database.
+No reports found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No relations found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  --9-3I Database.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  AutoFillPDFs_DB
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[10]
+-------------------------------------
+Exporting saved specs...      
+  Import-TMP00010
+  Import-Claborn_Text
+  Import-Claborn_Text_Semicoln
+[3]
+-------------------------------------
+Exporting themes...           
+  Office Theme
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[47]
+-------------------------------------
+Exporting imex specs...       
+  Claborn_Text Import Specification
+[1]
+-------------------------------------
+Exporting tables...           
+  tblFillPDF
+    Sanitized in 0.004 seconds.
+  tblFillPDF (SQL)
+  tblStates
+    Sanitized in 0.002 seconds.
+  tblStates (SQL)
+  tblStates_Email
+    Sanitized in 0.002 seconds.
+  tblStates_Email (SQL)
+  tblTemp_PDFTextImport
+    Sanitized in 0.001 seconds.
+  tblTemp_PDFTextImport (SQL)
+  tblTemp_PDFTextImport_Claborn
+    Sanitized in 0.001 seconds.
+  tblTemp_PDFTextImport_Claborn (SQL)
+[5]
+-------------------------------------
+Exporting queries...          
+  qry_tblFillPDF
+    Sanitized in 0.002 seconds.
+  qry_tblFillPDF (SQL)
+  qry_tblStates
+    Sanitized in 0.001 seconds.
+  qry_tblStates (SQL)
+  qry_tblStates_Email
+    Sanitized in 0.000 seconds.
+  qry_tblStates_Email (SQL)
+  qry_tblTemp_PDFTextImport
+    Sanitized in 0.001 seconds.
+  qry_tblTemp_PDFTextImport (SQL)
+  qry_tblTemp_PDFTextImport_Claborn
+    Sanitized in 0.001 seconds.
+  qry_tblTemp_PDFTextImport_Claborn (SQL)
+  qryEmail_EditFeilds
+    Sanitized in 0.001 seconds.
+  qryEmail_EditFeilds (SQL)
+  qryEmails
+    Sanitized in 0.001 seconds.
+  qryEmails (SQL)
+  qryEmails_CheckEmails
+    Sanitized in 0.001 seconds.
+  qryEmails_CheckEmails (SQL)
+  qryFillPDF
+    Sanitized in 0.001 seconds.
+  qryFillPDF (SQL)
+  qryPDFPage_ToFill
+    Sanitized in 0.001 seconds.
+  qryPDFPage_ToFill (SQL)
+  qryPDFPage_ToFill_Claborn
+    Sanitized in 0.001 seconds.
+  qryPDFPage_ToFill_Claborn (SQL)
+  qryPDFPageBreaks_ForCode
+    Sanitized in 0.001 seconds.
+  qryPDFPageBreaks_ForCode (SQL)
+  qryPDFPageBreaks_ForCode_Claborn
+    Sanitized in 0.001 seconds.
+  qryPDFPageBreaks_ForCode_Claborn (SQL)
+  qryPDFPageBreaks_ForCode-Old
+    Sanitized in 0.001 seconds.
+  qryPDFPageBreaks_ForCode-Old (SQL)
+  qryState_FileNames_ForCode
+    Sanitized in 0.001 seconds.
+  qryState_FileNames_ForCode (SQL)
+  qryState_FileNames_ForCode_Claborn
+    Sanitized in 0.001 seconds.
+  qryState_FileNames_ForCode_Claborn (SQL)
+[16]
+-------------------------------------
+Exporting forms...            
+  frmFillPDF
+    Sanitized in 0.028 seconds.
+  frmEmails
+    Sanitized in 0.008 seconds.
+  frmEmails_Auto
+    Sanitized in 0.007 seconds.
+  frmInstructions
+    Sanitized in 0.003 seconds.
+  frmEmail_EditFeilds
+    Sanitized in 0.004 seconds.
+[5]
+-------------------------------------
+Exporting modules...          
+  modSendEmails_Outlook_StateID
+  modReadPDF
+  Module1
+  modfIsLoaded
+  modPrintAnyDocument
+  modDelete_Error_Tables
+  modSendEmails_Outlook_StateID_Auto
+[7]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[2]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+Done. (1.53 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Forms                         5         0.53
+Queries                       16        0.35
+Tables                        5         0.13
+DB Properties                 47        0.10
+Modules                       7         0.07
+Saved Specs                   3         0.04
+VBE References                10        0.04
+Doc Properties                2         0.04
+Project                       1         0.04
+Nav Pane Groups               1         0.03
+IMEX Specs                    1         0.02
+Themes                        1         0.02
+VB Project                    1         0.02
+DB Connections                0         0.01
+Hidden Attributes             0         0.01
+Proj Properties               0         0.00
+Table Data Macros             0         0.00
+Shared Images                 0         0.00
+Relations                     0         0.00
+Table Data                    0         0.00
+VBE Forms                     0         0.00
+Reports                       0         0.00
+Macros                        0         0.00
+--------------------------------------------------
+TOTALS:                       100       1.45
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Increment Progress            88        0.20
+App.SaveAsText()              21        0.16
+Convert to JSON               649       0.14
+Scan DB Objects               1         0.09
+Format SQL                    16        0.08
+Sanitize File                 21        0.06
+Write File                    68        0.05
+Read File Bytes               34        0.05
+App.ExportXML()               5         0.04
+Console Updates               3         0.03
+Export VBE Module             7         0.03
+Delete File                   34        0.02
+Get File Property Hash        44        0.01
+Read File                     33        0.01
+Read File DevMode             5         0.01
+Clear Files by Ext            15        0.01
+Save Query SQL                16        0.01
+Compute SHA256                114       0.01
+Save Table SQL                5         0.01
+Get Modified Date             77        0.01
+Sanitize XML                  5         0.01
+Verify Path                   95        0.00
+Get VBA Hash                  12        0.00
+Format XML                    4         0.00
+Quick Count Files             1         0.00
+Sanitize VBA Code             11        0.00
+Quick Count Objects           1         0.00
+Check for linked table        5         0.00
+Format XML (alt)              1         0.00
+Create Folder                 8         0.00
+Export Theme                  1         0.00
+--------------------------------------------------
+Other Operations                        0.49
+--------------------------------------------------
+
+

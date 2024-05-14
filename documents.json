@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Databases": {
+      "SummaryInfo": {
+        "Author": "Wheel, Boykin",
+        "Title": "AutoFillPDFs_DB"
+      }
+    }
+  }
+}

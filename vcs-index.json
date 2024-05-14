@@ -1,0 +1,330 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2024-05-14T10:25:49.000Z",
+    "FullExportDate": "2024-05-14T10:25:49.000Z",
+    "OptionsHash": "d620f90",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "4cb2028",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ab458b9"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "e531c4f",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7aad5bd"
+        }
+      },
+      "Forms": {
+        "frmEmail_EditFeilds.bas": {
+          "FileHash": "98a645b",
+          "OtherHash": "7afe419",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "137336f"
+        },
+        "frmEmails.bas": {
+          "FileHash": "20be2dd",
+          "OtherHash": "db4ff9c",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1af3386"
+        },
+        "frmEmails_Auto.bas": {
+          "FileHash": "d976b4a",
+          "OtherHash": "05c48a3",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8bde87d"
+        },
+        "frmFillPDF.bas": {
+          "FileHash": "a2c3f64",
+          "OtherHash": "cf9d16e",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9f00489"
+        },
+        "frmInstructions.bas": {
+          "FileHash": "e39aae6",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "26ecf86"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "IMEX Specs": {
+        "Claborn_Text Import Specification.json": {
+          "FileHash": "857b660",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cfed7ca"
+        }
+      },
+      "Modules": {
+        "modDelete_Error_Tables.bas": {
+          "FileHash": "affaa79",
+          "OtherHash": "c88afdd",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1502192"
+        },
+        "modfIsLoaded.bas": {
+          "FileHash": "6062317",
+          "OtherHash": "b9e0b09",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "39c24eb"
+        },
+        "modPrintAnyDocument.bas": {
+          "FileHash": "9363d9e",
+          "OtherHash": "85569c2",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "410ec9a"
+        },
+        "modReadPDF.bas": {
+          "FileHash": "bb53006",
+          "OtherHash": "3d2dc5a",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d586e65"
+        },
+        "modSendEmails_Outlook_StateID.bas": {
+          "FileHash": "b3bad65",
+          "OtherHash": "f95ad92",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9291bd8"
+        },
+        "modSendEmails_Outlook_StateID_Auto.bas": {
+          "FileHash": "f36ac00",
+          "OtherHash": "ee116a5",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "eea582b"
+        },
+        "Module1.bas": {
+          "FileHash": "d819da7",
+          "OtherHash": "c2de2e1",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "16f5e63"
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "b23cfab",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f4e9ab7"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "156261e"
+        }
+      },
+      "Queries": {
+        "qry_tblFillPDF.bas": {
+          "FileHash": "711538b",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1e312f8"
+        },
+        "qry_tblStates.bas": {
+          "FileHash": "730018f",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8cc4f0a"
+        },
+        "qry_tblStates_Email.bas": {
+          "FileHash": "5b4b6be",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e4ee6e0"
+        },
+        "qry_tblTemp_PDFTextImport.bas": {
+          "FileHash": "73bcf9a",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d53a49f"
+        },
+        "qry_tblTemp_PDFTextImport_Claborn.bas": {
+          "FileHash": "e85545d",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "dd604ec"
+        },
+        "qryEmail_EditFeilds.bas": {
+          "FileHash": "0ce737e",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "dd12ae9"
+        },
+        "qryEmails.bas": {
+          "FileHash": "0c72a41",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ab82f90"
+        },
+        "qryEmails_CheckEmails.bas": {
+          "FileHash": "3dbce0c",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "38a1b31"
+        },
+        "qryFillPDF.bas": {
+          "FileHash": "89fc724",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "66f1bd0"
+        },
+        "qryPDFPage_ToFill.bas": {
+          "FileHash": "b52e0ed",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7d7be67"
+        },
+        "qryPDFPage_ToFill_Claborn.bas": {
+          "FileHash": "4e704e2",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8b3534e"
+        },
+        "qryPDFPageBreaks_ForCode.bas": {
+          "FileHash": "e846e87",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "96d58f3"
+        },
+        "qryPDFPageBreaks_ForCode_Claborn.bas": {
+          "FileHash": "4d51841",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "459e769"
+        },
+        "qryPDFPageBreaks_ForCode-Old.bas": {
+          "FileHash": "6af43cf",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "60d704a"
+        },
+        "qryState_FileNames_ForCode.bas": {
+          "FileHash": "aece275",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6afdb50"
+        },
+        "qryState_FileNames_ForCode_Claborn.bas": {
+          "FileHash": "1c31333",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1e8ccad"
+        }
+      },
+      "Saved Specs": {
+        "Import-Claborn_Text.json": {
+          "FileHash": "1766ad2",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6cc589a"
+        },
+        "Import-Claborn_Text_Semicoln.json": {
+          "FileHash": "7e2b0a9",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5ec2154"
+        },
+        "Import-TMP00010.json": {
+          "FileHash": "7cf9329",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3936c13"
+        }
+      },
+      "Tables": {
+        "tblFillPDF.xml": {
+          "FileHash": "3a1b878",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cf97a99"
+        },
+        "tblStates.xml": {
+          "FileHash": "0d0cd96",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7341184"
+        },
+        "tblStates_Email.xml": {
+          "FileHash": "a556a0e",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7f6c062"
+        },
+        "tblTemp_PDFTextImport.xml": {
+          "FileHash": "3221c39",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7faf259"
+        },
+        "tblTemp_PDFTextImport_Claborn.xml": {
+          "FileHash": "66cd27c",
+          "ExportDate": "2024-05-14T10:25:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d5f9810"
+        }
+      },
+      "Themes": {
+        "Office Theme.thmx": {
+          "FileHash": "f8d58e1",
+          "OtherHash": "310a6ac",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "afea075"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "b314cae",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c39f026"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "58b0aa5",
+          "ExportDate": "2024-05-14T10:25:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "62895fe"
+        }
+      }
+    }
+  }
+}
