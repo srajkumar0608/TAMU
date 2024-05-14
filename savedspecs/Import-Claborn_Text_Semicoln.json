@@ -1,0 +1,11 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Import-Claborn_Text_Semicoln",
+    "Description": "Seperated By Semicoln",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<ImportExportSpecification Path = \"C:\\Users\\boykin.wheel\\Documents\\Felicia\\Work\\Tools\\MSAccess\\JCs_AutoPDFSigning\\Documents\\Claborn\\Claborn_Text.txt\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\r\n        <ImportText TextFormat=\"Delimited\" FirstRowHasNames=\"false\" FieldDelimiter=\";\" TextDelimiter=\"\" CodePage=\"437\" AppendToTable=\"tblTemp_PDFTextImport_Claborn\" >\r\n               <DateFormat DateOrder=\"MDY\" DateDelimiter=\"/\" TimeDelimiter=\":\" FourYearDates=\"true\" DatesLeadingZeros=\"false\" />\r\n           <NumberFormat DecimalSymbol=\".\" />\r\n             <Columns PrimaryKey=\"{Auto}\">\r\n                 <Column Name=\"Col1\" FieldName=\"ID\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Long\" Width=\"104\" />\r\n             </Columns>\r\n </ImportText>\r\n</ImportExportSpecification>"
+  }
+}

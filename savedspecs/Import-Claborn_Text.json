@@ -1,0 +1,11 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Import-Claborn_Text",
+    "Description": "Comma Delimited",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<ImportExportSpecification Path = \"C:\\Users\\boykin.wheel\\Documents\\Felicia\\Work\\Tools\\MSAccess\\JCs_AutoPDFSigning\\Documents\\Claborn\\Claborn_Text.txt\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\r\n        <ImportText TextFormat=\"Delimited\" FirstRowHasNames=\"false\" FieldDelimiter=\",\" TextDelimiter=\"\" CodePage=\"437\" AppendToTable=\"tblTemp_PDFTextImport_Claborn\" >\r\n               <DateFormat DateOrder=\"MDY\" DateDelimiter=\"/\" TimeDelimiter=\":\" FourYearDates=\"true\" DatesLeadingZeros=\"false\" />\r\n           <NumberFormat DecimalSymbol=\".\" />\r\n             <Columns PrimaryKey=\"{Auto}\">\r\n                 <Column Name=\"Col1\" FieldName=\"ID\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Long\" Width=\"104\" />\r\n                 <Column Name=\"Col2\" FieldName=\"F1\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Text\" Width=\"11\" />\r\n                 <Column Name=\"Col3\" FieldName=\"F2\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Text\" Width=\"12\" />\r\n             </Columns>\r\n </ImportText>\r\n</ImportExportSpecification>"
+  }
+}

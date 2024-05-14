@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Import-TMP00010",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<ImportExportSpecification Path = \"C:\\Users\\boykin.wheel\\Desktop\\TMP00010.txt\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\r\n      <ImportText TextFormat=\"Fixedwidth\" FirstRowHasNames=\"false\" FieldDelimiter=\"\" TextDelimiter=\"\" CodePage=\"437\" Destination=\"TMP00010\" >\r\n               <DateFormat DateOrder=\"MDY\" DateDelimiter=\"/\" TimeDelimiter=\":\" FourYearDates=\"true\" DatesLeadingZeros=\"false\" />\r\n           <NumberFormat DecimalSymbol=\".\" />\r\n             <Columns PrimaryKey=\"{Auto}\">\r\n                 <Column Name=\"Col1\" FieldName=\"Field1\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Text\" Width=\"80\" />\r\n                 <Column Name=\"Col2\" FieldName=\"Field2\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Text\" Width=\"4\" />\r\n             </Columns>\r\n   </ImportText>\r\n</ImportExportSpecification>"
+  }
+}
