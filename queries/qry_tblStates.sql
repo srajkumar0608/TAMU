@@ -1,0 +1,4 @@
+﻿SELECT
+  tblStates.*
+FROM
+  tblStates;

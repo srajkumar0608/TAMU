@@ -1,0 +1,9 @@
+﻿SELECT
+  qry_tblStates_Email.State,
+  qry_tblStates_Email.ToEmailAddress,
+  qry_tblStates_Email.CCEmailAddress,
+  qry_tblStates_Email.EmailFrom,
+  qry_tblStates_Email.Subject,
+  qry_tblStates_Email.NameForEmail
+FROM
+  qry_tblStates_Email;
