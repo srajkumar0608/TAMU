@@ -6,7 +6,7 @@ Sub ReadPDF()
     'NOTE: Adobe Acrobat Pro XI or higher has to be installed and the following references have to be active:
     'Adobe Acrobat 10.0 Type Library    (acrobat.tlb)           Usually found in: C:\Program Files (x86)\Adobe\Acrobat 11.0\Acrobat\
     'Acrobat Access 3.0 Type Library    (Accessibility.api)     Usually found in: C:\Program Files (x86)\Adobe\Acrobat 11.0\Acrobat\plug_ins\
-
+'commit check
     'To check for active references, see Tools -> References OR use the Immediate window (ctrl + G) and type "for each r in references : debug.Print r.name, r.fullpath : next r" (minus "" quotes)
 
     Dim AcroApp                                     As Acrobat.CAcroApp         'We're going to use the Acrobat 'app', so point to that
